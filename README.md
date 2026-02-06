@@ -1,0 +1,2 @@
+# LifeLens
+AI Memory Journal
