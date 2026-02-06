@@ -1,0 +1,15 @@
+{
+  "name": "LifeLens AI Journal",
+  "short_name": "LifeLens",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
