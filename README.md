@@ -60,3 +60,25 @@ Premium, AI-powered Memory Journal web app with AI insights, mood analytics, and
 - Weekly AI reflection page
 - Dark/Light mode toggle
 - Mobile-first bottom navigation
+
+## ScreenShot
+
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/e0ae645b-4fad-41e8-8e09-65a09c45f94f" />
+
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/ec8aa12a-34b5-442e-883b-75d900164222" />
+
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/5784e828-e139-4ff6-8684-d4dd9a11373a" />
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/b4e9dd6c-502b-433d-80d7-3c9ed36e8016" />
+
+<img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/4734e2e0-4e1b-450b-ae7d-07e169070765" />
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/60671bff-7c63-474e-9d61-ccdc40df2cac" />
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/127b79b5-2e59-4ce2-8a4f-e27f6caeed0e" />
+
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/8e594a43-2e68-4a79-a4b3-442b903e31fe" />
+
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/0c352ac2-7ad3-4b0f-b7fd-254b1e573d13" />
+
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/a72a5915-bee0-48e0-8d0c-62ecb63a3cfe" />
